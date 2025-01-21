@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechThistle
-- 👀 I’m currently persuing my computer science engineering in Artificial Intelligence.
+- 👀 I’m currently persuing my Computer Science Engineering in Artificial Intelligence.
 - 🌱 I’m currently learning Web Development.
 - 📫 Mail me at: dimple4122004@gmail.com
 - 😄 Pronouns: she/her
